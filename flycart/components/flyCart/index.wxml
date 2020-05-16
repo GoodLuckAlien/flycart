@@ -1,0 +1,6 @@
+<image  
+ class="flycart"
+ hidden="{{ cartHidden }}"
+ src="{{ imageUrl }}"
+ style="left: {{bus_x}}px; top: {{bus_y}}px;transform:scale({{ scale }});" 
+></image>
